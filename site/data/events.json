@@ -1,0 +1,87 @@
+{
+  "191244": {
+    "Tipo": "Manobras Operacionais",
+    "Local": "N/A",
+    "Localidade": "A008R001 UNIDADE TERMINAL REMOTA - UTR508",
+    "Data de Registro": "22/07/2025 08:30:40",
+    "Área": "OPU",
+    "Descrição": "Dentro dos trabalhos da ATE 202506333 para \"[AT / SCADA EMS] Realizar configuração na UTR508 para possibilitar comunicação em protocolo IEC104 com SCADA ETERRA. Endereçamento IP E documentacoes em anexo de SSA vinculadas\" , foram realizado as seguintes manobras:\n08:30 - Passado UTR para OUT.\n08:36 - Passado UTR para IN.\nDespacho de carga - Dure.",
+    "Categoria": "Irrelevante",
+    "Classificação": "Automática",
+    "Local_Sort": "A008R001 UNIDADE TERMINAL REMOTA - UTR508",
+    "Localizacao": "A008R001 UNIDADE TERMINAL REMOTA - UTR508"
+  },
+  "191245": {
+    "Tipo": "Manobras Operacionais",
+    "Local": "N/A",
+    "Localidade": "B010R002 UNIDADE TERMINAL REMOTA - UTR610-1",
+    "Data de Registro": "22/07/2025 08:52:29",
+    "Área": "OPU",
+    "Descrição": "Dentro dos trabalhos da AT 202506332 \"[AT / SCADA EMS] Realizar configuração na UTR610-1 para possibilitar comunicação em protocolo IEC104 com SCADA ETERRA. Endereçamento IP e documentacoes em anexo de SSA vinculadas. OBS: Necesario UTR en OUT por 15 min a coordinar con op\" foram realizados as seguintes manobras:\n08:15 UTR em OUT.\n08:21 UTR em IN.",
+    "Categoria": "Irrelevante",
+    "Classificação": "Automática",
+    "Local_Sort": "B010R002 UNIDADE TERMINAL REMOTA - UTR610-1",
+    "Localizacao": "B010R002 UNIDADE TERMINAL REMOTA - UTR610-1"
+  },
+  "191246": {
+    "Tipo": "Manobras Operacionais",
+    "Local": "N/A",
+    "Localidade": "B010R001 UNIDADE TERMINAL REMOTA - UTR610",
+    "Data de Registro": "22/07/2025 08:54:38",
+    "Área": "OPU",
+    "Descrição": "Entrada da ATE 202506330 para \"[AT / SCADA EMS] realizar configuração na UTR610 para possibilitar comunicação em protocolo IEC104 com SCADA ETERRA. Endereçamento IP E documentacoes em anexo de SSA VINCULADAS. OBS: Necesario UTR en OUT por 15 min a coordinar con OP\" foram realizadas as seguintes manobras\n08:43 UTR em OUT\n08:50 UTR em IN\nDespacho de carga - Duré.",
+    "Categoria": "Irrelevante",
+    "Classificação": "Automática",
+    "Local_Sort": "B010R001 UNIDADE TERMINAL REMOTA - UTR610",
+    "Localizacao": "B010R001 UNIDADE TERMINAL REMOTA - UTR610"
+  },
+  "191247": {
+    "Tipo": "Informações Gerais",
+    "Local": "CH-IPU",
+    "Localidade": " N/A",
+    "Data de Registro": "22/07/2025 09:09:31",
+    "Área": "OPU",
+    "Descrição": "Dentro doas trabalhos da AT 202506440 \"Reposicionar las consolas telefónicas y accesorios del sistema COTEL para su posición final, posterior a las reformas del predio del Cuerpo de Bomberos. Realizar ensayos de funcionamiento, posterior al reposicionamiento. Se prevé indisponibilidad de 30 min de las consolas en bomberos durante la migración(coordinar con OP.DT), en la cual operará el sistema TMR, ramales de SOPHO 3333/2630 y  Hot-line con CCR.\nOBSERVAR Y CUMPLIR LAS INSTRUCCIONES DE SEGURIDAD VIGENTES EN LA IB.\" Fomos avisados por Drayton- MEL3 que as consoles estão indisponiveis .\nTelefones disponiveis para contato com Bombeiros :\nHL BOMBEI2\nRAMAIS - 6333 - 3330 - 2630.",
+    "Categoria": "Relevante",
+    "Classificação": "Automática",
+    "Local_Sort": "CH-IPU",
+    "Localizacao": "CH-IPU"
+  },
+  "191254": {
+    "Tipo": "Informações Gerais",
+    "Local": "CH-IPU",
+    "Localidade": " N/A",
+    "Data de Registro": "22/07/2025 10:08:33",
+    "Área": "OPU",
+    "Descrição": "Dentro doas trabalhos da AT 202506440 \"Reposicionar las consolas telefónicas y accesorios del sistema COTEL para su posición final, posterior a las reformas del predio del Cuerpo de Bomberos. Realizar ensayos de funcionamiento, posterior al reposicionamiento. Se prevé indisponibilidad de 30 min de las consolas en bomberos durante la migración(coordinar com OP.DT), en la cual operará el sistema TMR, ramales de SOPHO 3333/2630 y  Hot-line con CCR.\nOBSERVAR Y CUMPLIR LAS INSTRUCCIONES DE SEGURIDAD VIGENTES EN LA IB.\" Fomos avisados por Drayton- MEL3 que as consoles HOT-LINE estão disponiveis .",
+    "Categoria": "Relevante",
+    "Classificação": "Automática",
+    "Local_Sort": "CH-IPU",
+    "Localizacao": "CH-IPU"
+  },
+  "191251": {
+    "Tipo": "Trabalhos Urgentes",
+    "Local": "N/A",
+    "Localidade": "B017J014 TROCADOR DE CALOR ÓLEO/ÁGUA N1 DO TU-17 FASE C",
+    "Data de Registro": "22/07/2025 09:53:23",
+    "Área": "OPU",
+    "Descrição": "Entrada da AT 202506507  para \" Verificar/solucionar motivo por el cual accionó alarma de \"Falla Circuito de Agua\". Obs. Será necesario acceder a la celda. Aislar Sistema CO2 en la celda fase C\"",
+    "Categoria": "Relevante",
+    "Classificação": "Automática",
+    "Local_Sort": "B017J014 TROCADOR DE CALOR ÓLEO/ÁGUA N1 DO TU-17 FASE C",
+    "Localizacao": "B017J014 TROCADOR DE CALOR ÓLEO/ÁGUA N1 DO TU-17 FASE C"
+  },
+  "191256": {
+    "Tipo": "Emergência",
+    "Local": "Rio Paraná à jusante",
+    "Localidade": " N/A",
+    "Data de Registro": "22/07/2025 10:51:40",
+    "Área": "OPU",
+    "Descrição": "Entrou em contato com a CCR o ESAI - Teixeira informando sobre a necessidade de acessarem o Rio Paraná jusante com uma embarcação, dentro da zona restrita, devido a presença de pescadores próximo ao vertedouro.\nProvidências tomadas:\n11:09h - Impedida a calha central do vertedouro e liberado acesso. Calhas direita e esquerda já se encontravam impedidas.\nInformado o Despacho de Carga - Duré sobre a indisponibilidade do vertedouro.\n11:26 h - Fomos informados por ESAI - Teixeira que as embarcações já estão fora do rio.\n11:28 h - Normalizada a calha central do vertedouro e informado o Despacho de Carga.\nAvisado: SOTER - Julio",
+    "Categoria": "Relevante",
+    "Classificação": "Automática",
+    "Local_Sort": "RIO PARANÁ À JUSANTE",
+    "Localizacao": "RIO PARANÁ À JUSANTE"
+  }
+}
+    
