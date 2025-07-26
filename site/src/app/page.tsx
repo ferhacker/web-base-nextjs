@@ -40,6 +40,8 @@ async function getEventData(): Promise<Event[]> {
 }
 //-----------------------------------------------------------------------------
 
+
+
 export default async function Home() {
   const events = await getEventData();
   return (
