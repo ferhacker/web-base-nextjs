@@ -18,7 +18,10 @@ export type Event = {
   Classificação: string;
   Local_Sort: string;
   Localizacao: string;
+  dataRegistroDate?: Date; // novo campo para armazenar a data como objeto Date
 };
+
+
 
 //Deve ser async function para implementar a letura do documento
 //-------------------------------------------------------------------
@@ -30,6 +33,8 @@ async function getEventData(): Promise<Event[]> {
 
     // Convert the object of objects into an array of objects, including the ID
     return Object.entries(data).map(([id, event]) => ({
+      
+      
       id,
       ...(event as Omit<Event, "id">),
     }));
@@ -55,7 +60,7 @@ export default async function Home() {
             personalizado.
           </p>
         </header>
-         <MyComponent events={events}/>
+         <MyComponent events={events} />
        </main>
     </div>
   );
